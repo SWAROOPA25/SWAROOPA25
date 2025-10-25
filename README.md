@@ -51,40 +51,9 @@
 | 🎬 **Movie Recommender** | Personalized movie suggestions | Python, Flask, Pandas |
 | 🛍️ **ShopEase** | Full-stack e-commerce app | React, Node.js, Stripe API |
 
-🧭 Explore all my projects 👉 [View Repositories](https://github.com/swaroopanambi?tab=repositories)
 
----
 
-### 📊 GitHub Stats & Activity  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaroopanambi&theme=tokyonight" alt="streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=swaroopanambi&show_icons=true&theme=radical" alt="stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroopanambi&layout=compact&theme=radical" alt="languages"/>
-</p>
-
----
-
-### 🎶 Fun Animation  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif" />
-</p>
-
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/swaroopanambi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
----
 
 ### 💬 Quote I Live By  
 > “Code. Create. Evolve. Repeat. 🌱”  
